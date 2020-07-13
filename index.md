@@ -1,5 +1,0 @@
-<div id="printableArea">
-      <h1>Print me</h1>
-</div>
-
-<input type="button" onclick="printDiv('printableArea')" value="print a div!" />
